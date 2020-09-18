@@ -1,6 +1,6 @@
 # budget_planner
 
-A new Flutter application to plan your budget
+A new Flutter application to record your exam scors
 
 ## Getting Started
 
